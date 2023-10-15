@@ -1,6 +1,4 @@
 
-// import { initializeApp } from "firebase/app";
-// import firebase from 'firebase/app';
 import { initializeApp } from "firebase/app";
 // import { Link, useNavigate } from "react-router-dom";
 import {  getAuth} from "firebase/auth";
